@@ -1,0 +1,52 @@
+{
+  "id": "ticket-to-the-afterlife-ru",
+  "title": "Билет в «Посмертие» — Ticket to the Afterlife (RU)",
+  "version": "2.2.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "night-city-gang-and-corp-mook-pack",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "cyberpunk-red-core",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "ticket-to-the-afterlife",
+      "label": "Билет в «Посмертие»",
+      "path": "packs/ticket-to-the-afterlife",
+      "type": "Adventure",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "ttta-rollable-tables",
+      "label": "БвП — Таблицы бросков",
+      "path": "packs/ttta-rollable-tables",
+      "type": "RollTable",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": "Русский перевод приключения «Ticket to the Afterlife» для Cyberpunk RED — «Билет в „Посмертие\"». Оригинальное авторское приключение для Foundry Virtual Tabletop: 12 оригинальных миссий по всему Найт-Сити и за его пределами, 40+ карт, десятки новых боевиков, городской эмбиент, уникальная денежная система, полдюжины услуг для эджраннеров Найт-Сити и многое другое.\n\n<i>Когда-то давно была забегаловка под названием «Посмертие», где все, кто хоть что-то значил, собирались и говорили о делах. О настоящих делах — о тех, на которых куются легенды.</i>\n\n<i>Всё это кануло в лету, но ходят слухи, что в одном из отелей Аппер-Марины снова вешают неон, а фиксеры рыщут по городу в поисках эджраннеров со стилем, средствами и умением делать работу. Красные десятилетия наконец подходят к концу, чумба, и у корпоратов снова есть деньги, которые можно жечь. Эджраннеры — такая же неотъемлемая часть Найт-Сити, как коррупция и банды, — почему бы и нет?</i>\n\n<i>Если заинтересовался — проверь карту, слотни монету и помоги отстроить сообщество эджраннеров Найт-Сити с нуля. Служи — и будь полезным.</i>"
+}
