@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "changedTextFields": 942,
+  "actors": 92,
+  "journalEntries": 35,
+  "journalPages": 200,
+  "scenes": 47,
+  "sceneNotes": 167,
+  "encounters": 28,
+  "worldItems": 28,
+  "tables": 7,
+  "unchanged": [
+    "IDs",
+    "numeric values",
+    "image and audio paths",
+    "HTML links",
+    "UUID targets",
+    "note coordinates and journal targets",
+    "encounter composition",
+    "table ranges and formulas"
+  ],
+  "newBrokenWeaponSkillReferences": 0
+}

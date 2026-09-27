@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "adventureReadbackMatches": true,
+  "tablesReadbackMatches": true,
+  "source": "Independent snapshots taken after pack writes",
+  "version": "2.3.1"
+}

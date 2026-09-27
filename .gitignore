@@ -1,4 +1,11 @@
 node_modules/
 *.log
+!packs/*/[0-9]*.log
+**/LOCK
+**/LOG
+**/LOG.old
+*.bak/
+*.bak2/
+*.7z
 .DS_Store
 Thumbs.db
